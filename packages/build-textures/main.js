@@ -1,4 +1,3 @@
-
 function onBeforeBuildFinish (options, callback) {
     options.bundles.forEach(bundle => {
         let buildResults = bundle.buildResults;
@@ -45,7 +44,7 @@ function onBeforeBuildFinish (options, callback) {
             }
         }
         Editor.log(`All textures in build: ${textures}`);
-    })
+    });
     callback();
 }
 
