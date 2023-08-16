@@ -4,7 +4,7 @@
 
 该项目依赖 Cocos Creator 2.4+。
 
-构建插件的具体开发方式，请参考[《定制项目构建流程》](http://docs.cocos.com/creator/manual/zh/publish/custom-project-build-template.html?h=%E6%89%A9%E5%B1%95%E6%9E%84%E5%BB%BA%E6%B5%81%E7%A8%8B)。
+构建插件的具体开发方式，请参考[《扩展构建流程》](https://docs.cocos.com/creator/2.4/manual/zh/publish/custom-project-build-template.html#%E6%89%A9%E5%B1%95%E6%9E%84%E5%BB%BA%E6%B5%81%E7%A8%8B)。
 
 ----
 
@@ -12,4 +12,4 @@ This project contains [a build plugin](packages/build-textures) that shows you h
 
 This project relies on Cocos Creator 2.4+.
 
-For more information about build plugin, refer to [Custom Project Build Process](http://docs.cocos.com/creator/manual/en/publish/custom-project-build-template.html?h=Extend%20The%20Build%20Process).
+For more information about build plugin, refer to [Extend The Build Process](https://docs.cocos.com/creator/2.4/manual/en/publish/custom-project-build-template.html#extend-the-build-process).
